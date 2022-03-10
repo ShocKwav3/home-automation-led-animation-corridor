@@ -22,5 +22,7 @@ System stays in deep sleep and only wakes up by these motion sensors.
 
 The [door key dispenser](https://github.com/ShocKwav3/home-automation-door-key-dispenser) would be connected wirelessly and send information to this device. Summary will be shown in the connected oled display.
 
+### Links
+ - [Saved me sh*tton of trouble](https://learn.adafruit.com/adafruit-neopixel-uberguide/best-practices)
 ### Circuit diagram
 ![alt text](https://github.com/ShocKwav3/home-automation-led-animation-corridor/blob/main/fritzing/led-corridor_img.png)
